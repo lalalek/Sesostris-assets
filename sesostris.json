@@ -4,6 +4,6 @@
   "description": "Tokens minted by Alek on the Solana network",
   "image": "https://raw.githubusercontent.com/lalalek/Sesostris-assets/main/ses.png",
   "extensions": {
-    "website": "https://alek.rocks"
+    "external_url": "https://alek.rocks"
   }
 }
