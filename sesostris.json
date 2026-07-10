@@ -2,8 +2,8 @@
   "name": "Sesostris",
   "symbol": "SES",
   "description": "Tokens minted by Alek on the Solana network",
-  "image": "https://github.com/lalalek/Sesostris-assets/blob/main/ses.png?raw=true",
+  "image": "https://raw.githubusercontent.com/lalalek/Sesostris-assets/main/ses.png",
   "extensions": {
-    "website": "https://alek.rocks",
+    "website": "https://alek.rocks"
   }
 }
